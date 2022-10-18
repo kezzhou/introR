@@ -140,7 +140,14 @@ class(metadata)
 
 summary(proj_summary) ## median for rRNA_rate is 0.005082
 
+stringsAsFactors = TRUE
+
+?length
+
 length(samplegroup)
 
 dim(proj_summary) ## 9 col by 9 rows
 
+rownames(metadata)
+
+colnames(proj_summary)
