@@ -126,9 +126,9 @@ multiply_it(4, 6)
 
 ?read.csv ## this brings up documentation for read.table because it is the parent function
 
-metadata <- read.csv(file="./mouse_exp_design.csv")
+metadata <- read.csv(file="./data/mouse_exp_design.csv")
 
-proj_summary <- read.table(file="./project-summary.txt", header=TRUE) ## the header argument will set the first row as variable names when set to TRUE
+proj_summary <- read.table(file="./data/project-summary.txt", header=TRUE) ## the header argument will set the first row as variable names when set to TRUE
 
 head(metadata)
 
@@ -144,7 +144,7 @@ stringsAsFactors = TRUE
 
 ?length
 
-length(samplegroup)
+length(samplegroup) # 9
 
 dim(proj_summary) ## 9 col by 9 rows
 
