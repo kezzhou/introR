@@ -5,16 +5,16 @@ HHA 507 // Week 8 // Assignment 8
 ## There are two R lessons covered in this repository:
 
 + _HBCTraining's Introduction to R_ (Open Source on Github)
-    Part 1
-        1. Introduction to R and RStudio
-        2. R Syntax and Data Structure
-        3. Functions and Arguments
-        4. Reading in and inspecting data
+Part 1
+1. Introduction to R and RStudio
+2. R Syntax and Data Structure
+3. Functions and Arguments
+4. Reading in and inspecting data
 
 + _Eric Feigelson's Introduction to R_ (Summer School in Statistics for Astronomers XVII, June 2022)
-        - Section I
-        - Section II
-        - Section III
+- Section I
+- Section II
+- Section III
 
 ## Description:
 
