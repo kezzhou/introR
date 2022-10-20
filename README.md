@@ -12,9 +12,9 @@ Part 1
 4. Reading in and inspecting data
 
 + _Eric Feigelson's Introduction to R_ (Summer School in Statistics for Astronomers XVII, June 2022)
-- Section I
-- Section II
-- Section III
+1. Section I
+2. Section II
+3. Section III
 
 ## Description:
 
