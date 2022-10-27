@@ -5,12 +5,12 @@ HHA 507 // Week 8 // Assignment 8
 
 
 1. _HBCTraining's Introduction to R_ (Open Source on Github)
-Part 1
++ Part 1
 - Introduction to R and RStudio
 - R Syntax and Data Structure
 - Functions and Arguments
 - Reading in and inspecting data
-Part 2
++ Part 2
 - Data Wrangling: Subsetting Vectors and Factors
 - Packages and libraries
 - Data wrangling: data frames, matrices and lists
