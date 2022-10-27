@@ -1,5 +1,4 @@
 # Introduction to R
-introR
 HHA 507 // Week 8 // Assignment 8
 
 ## There are three R lessons covered in this repository:
