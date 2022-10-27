@@ -4,28 +4,26 @@ HHA 507 // Week 8 // Assignment 8
 ## There are three R lessons covered in this repository:
 
 
-+ _HBCTraining's Introduction to R_ (Open Source on Github)
-Part 1
-1. Introduction to R and RStudio
-2. R Syntax and Data Structure
-3. Functions and Arguments
-4. Reading in and inspecting data
-Part 2
-1. Data Wrangling: Subsetting Vectors and Factors
-2. Packages and libraries
-3. Data wrangling: data frames, matrices and lists
+1. _HBCTraining's Introduction to R_ (Open Source on Github)
+_Part 1_
+- Introduction to R and RStudio
+- R Syntax and Data Structure
+- Functions and Arguments
+- Reading in and inspecting data
+_Part 2_
+- Data Wrangling: Subsetting Vectors and Factors
+- Packages and libraries
+- Data wrangling: data frames, matrices and lists
 
+2. Bookdown Demo The R Environment
+- Chapter 1: The R Environment
+- Chapter 2: Getting Started with Data
+- Wrangling and Visualizing Data
 
-+ Bookdown Demo The R Environment
-1. Chapter 1: The R Environment
-2. Chapter 2: Getting Started with Data
-3. Wrangling and Visualizing Data
-
-
-+ _Eric Feigelson's Introduction to R_ (Summer School in Statistics for Astronomers XVII, June 2022)
-1. Section I
-2. Section II
-3. Section III
+3. _Eric Feigelson's Introduction to R_ (Summer School in Statistics for Astronomers XVII, June 2022)
+- Section I
+- Section II
+- Section III
 
 
 ## Description:
